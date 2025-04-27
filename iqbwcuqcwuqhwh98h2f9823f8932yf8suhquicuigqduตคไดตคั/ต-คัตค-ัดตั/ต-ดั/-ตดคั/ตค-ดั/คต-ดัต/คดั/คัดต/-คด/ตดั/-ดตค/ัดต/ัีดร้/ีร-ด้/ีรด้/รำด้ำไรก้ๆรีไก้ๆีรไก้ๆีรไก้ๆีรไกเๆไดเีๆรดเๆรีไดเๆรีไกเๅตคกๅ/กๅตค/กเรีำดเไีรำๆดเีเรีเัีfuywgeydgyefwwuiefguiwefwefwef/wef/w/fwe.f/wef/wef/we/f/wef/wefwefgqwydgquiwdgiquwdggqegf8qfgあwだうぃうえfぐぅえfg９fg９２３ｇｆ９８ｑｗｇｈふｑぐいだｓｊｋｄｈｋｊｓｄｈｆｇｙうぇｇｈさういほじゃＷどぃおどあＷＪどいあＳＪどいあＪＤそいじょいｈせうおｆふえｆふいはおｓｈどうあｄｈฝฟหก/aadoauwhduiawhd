@@ -16,5 +16,6 @@ return {
 "ec51e461-6ec0-40da-9f14-be30f170edfe", -- 1 month expire at 22 / 5 / 2025 5staarliz
 "42ac51d8-92b8-44cf-9a62-f6990de33547", -- 1 hour review
 "f7ca23b2-767b-4752-adec-4cace10291ea", -- never THE END
-"fb317adf-0eda-4db0-9669-bfbab685a569" -- 1 month expire at 27 / 5 / 2025 fluxusHR
+"fb317adf-0eda-4db0-9669-bfbab685a569", -- 1 month expire at 27 / 5 / 2025 fluxusHR
+"26BC0629-C9DF-4F00-94A5-4063F91F14FF" -- 1 month expire at 27 / 5 / 2025 maximlebg09
 }
