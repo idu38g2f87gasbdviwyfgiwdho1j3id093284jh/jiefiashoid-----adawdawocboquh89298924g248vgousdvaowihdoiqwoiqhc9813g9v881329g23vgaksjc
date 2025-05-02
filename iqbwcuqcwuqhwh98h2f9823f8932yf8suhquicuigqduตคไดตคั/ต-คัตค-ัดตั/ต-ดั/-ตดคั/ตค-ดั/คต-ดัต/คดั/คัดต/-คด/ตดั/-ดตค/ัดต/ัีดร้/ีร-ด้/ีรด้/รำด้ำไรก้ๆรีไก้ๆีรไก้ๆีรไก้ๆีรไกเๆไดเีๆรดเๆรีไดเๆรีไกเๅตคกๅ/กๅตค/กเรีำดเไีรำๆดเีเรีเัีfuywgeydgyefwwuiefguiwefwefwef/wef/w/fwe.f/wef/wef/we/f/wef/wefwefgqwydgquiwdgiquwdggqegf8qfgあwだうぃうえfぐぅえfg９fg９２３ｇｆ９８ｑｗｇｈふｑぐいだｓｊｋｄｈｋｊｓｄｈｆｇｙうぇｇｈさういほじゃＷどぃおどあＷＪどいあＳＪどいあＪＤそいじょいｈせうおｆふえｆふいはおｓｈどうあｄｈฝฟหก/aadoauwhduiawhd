@@ -21,5 +21,6 @@ return {
 "ca065c06-6bd4-4252-9733-5a8c72446f38", -- 5 days expire at 4 / 5 / 2025 MiminVz_sinnners
 "0c2d352b-ecb1-403c-bef7-08dc051ec5d7", -- never zori
 "f97abefb-dc11-429f-962b-0de30a1d3a63", -- 1 month expire at 1 / 6 / 2025 maximitoelloco
-"DECE137B-7344-42E0-B553-520ACE3107DE" -- 5 month expire at 2 / 10 / 2025 avengefulsins (MAYBE INCREASE)
+"DECE137B-7344-42E0-B553-520ACE3107DE", -- 5 month expire at 2 / 10 / 2025 avengefulsins (MAYBE INCREASE)
+"F586882A-B671-4FC7-93D8-1A5F10ECB2B8" -- 1 month expire at 3 / 6 2025 rhendm4
 }
